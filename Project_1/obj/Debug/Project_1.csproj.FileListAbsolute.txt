@@ -1,0 +1,16 @@
+C:\Documents and Settings\Owner\My Documents\Eastern\CSC 450\Project_1\Project_1\bin\Debug\Project_1.exe
+C:\Documents and Settings\Owner\My Documents\Eastern\CSC 450\Project_1\Project_1\bin\Debug\Project_1.pdb
+C:\Documents and Settings\Owner\My Documents\Eastern\CSC 450\Project_1\Project_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Eastern\CSC 450\Project_1\Project_1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Documents and Settings\Owner\My Documents\Eastern\CSC 450\Project_1\Project_1\obj\Debug\Project_1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\My Documents\Eastern\CSC 450\Project_1\Project_1\obj\Debug\Project_1.exe
+C:\Documents and Settings\Owner\My Documents\Eastern\CSC 450\Project_1\Project_1\obj\Debug\Project_1.pdb
+C:\Documents and Settings\Owner\My Documents\Eastern\CSC 450\Project_1\Project_1\obj\Debug\Project_1.Form1.resources
+Z:\CSC450\Project_1\Project_1\obj\Debug\Project_1.exe
+Z:\CSC450\Project_1\Project_1\obj\Debug\Project_1.pdb
+Z:\CSC450\Project_1\Project_1\bin\Debug\Project_1.exe
+Z:\CSC450\Project_1\Project_1\bin\Debug\Project_1.pdb
+Z:\CSC450\Project_1\Project_1\obj\Debug\Project_1.csprojResolveAssemblyReference.cache
+Z:\CSC450\Project_1\Project_1\obj\Debug\Project_1.Form1.resources
+Z:\CSC450\Project_1\Project_1\obj\Debug\Project_1.Properties.Resources.resources
+Z:\CSC450\Project_1\Project_1\obj\Debug\Project_1.csproj.GenerateResource.Cache
